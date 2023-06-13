@@ -34,11 +34,11 @@
 
 <br>
   <img
-  src=""
+  src="assets/1"
   alt="Personel_Kayit"
   style="display: inline-block; margin: 0 auto; max-width: 300px"><br>
   <img
-  src=""
+  src="assets/2"
   alt="Personel_Kayit"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   <br>
