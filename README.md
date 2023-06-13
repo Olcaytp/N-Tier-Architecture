@@ -14,7 +14,7 @@
 <p>
   <a target="_blank"  rel="noreferrer">   
   <img
-  src="assets/c_sharp_icon"
+  src=".\assets\c_sharp_icon.png"
   alt="C#"
   width="50"  height="50"> 
   </a>
