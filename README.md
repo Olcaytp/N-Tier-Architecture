@@ -37,6 +37,7 @@
   src="assets/1.jpeg"
   alt="Personel_Kayit"
   style="display: inline-block; margin: 0 auto; max-width: 300px"><br>
+  <br>
   <img
   src="assets/2.jpeg"
   alt="Personel_Kayit"
