@@ -20,13 +20,13 @@
   </a>
   <a target="_blank"  rel="noreferrer"> 
   <img
-  src="assets/database_icon"
+  src="assets/database_icon.png"
   alt="sql"
   width="50"  height="50">
     </a>
   <a target="_blank"  rel="noreferrer"> 
   <img
-  src="assets\NET_Framework"
+  src="assets\NET_Framework.png"
   alt="C#"
   width="50"  height="50">
   </a>
