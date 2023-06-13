@@ -14,19 +14,19 @@
 <p>
   <a target="_blank"  rel="noreferrer">   
   <img
-  src=""
+  src=".\assets\c_sharp_icon.png"
   alt="C#"
   width="50"  height="50"> 
   </a>
   <a target="_blank"  rel="noreferrer"> 
   <img
-  src=""
-  alt="C#"
+  src="assets/database_icon.png"
+  alt="sql"
   width="50"  height="50">
     </a>
   <a target="_blank"  rel="noreferrer"> 
   <img
-  src="Personel_Kayit\assets\database_icon.png"
+  src="assets\NET_Framework.png"
   alt="C#"
   width="50"  height="50">
   </a>
